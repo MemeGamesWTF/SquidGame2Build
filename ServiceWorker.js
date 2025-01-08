@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-DefaultGame-1.0";
+const cacheName = "DefaultCompany-SquidGameCookieCutting-1.0";
 const contentToCache = [
     "Build/SquidGame2Build.loader.js",
     "Build/SquidGame2Build.framework.js",

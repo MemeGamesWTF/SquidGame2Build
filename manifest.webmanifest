@@ -1,6 +1,6 @@
 {
-    "name": "DefaultGame",
-    "short_name": "DefaultGame",
+    "name": "SquidGameCookieCutting",
+    "short_name": "SquidGameCookieCutting",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
