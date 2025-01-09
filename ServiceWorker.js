@@ -2,7 +2,7 @@ const cacheName = "DefaultCompany-SquidGameCookieCutting-1.0";
 const contentToCache = [
     "Build/5109749bc6fd8b18521eccafd884ee59.loader.js",
     "Build/256e637fb7ebc98a7ec75ccad3fb4ed5.framework.js",
-    "Build/6822b127910ed3b4d62217c28d4c8ed0.data",
+    "Build/2dcf200ae07ee755e6a3f948a2327e87.data",
     "Build/82d36fb74b95b27c7edf5b42512a57cf.wasm",
     "TemplateData/style.css"
 
