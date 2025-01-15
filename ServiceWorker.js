@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-SquidGameCookieCutting-1.0";
 const contentToCache = [
-    "Build/5109749bc6fd8b18521eccafd884ee59.loader.js",
+    "Build/87530b646338713290fb0ab0aed58a63.loader.js",
     "Build/256e637fb7ebc98a7ec75ccad3fb4ed5.framework.js",
-    "Build/2c4301e107f676acb3b8c61e4951636b.data",
-    "Build/82d36fb74b95b27c7edf5b42512a57cf.wasm",
+    "Build/31d9cafe45ea48952af8b889a6256950.data",
+    "Build/9a3394b42784f1165bcc6bbdf86f41f1.wasm",
     "TemplateData/style.css"
 
 ];
